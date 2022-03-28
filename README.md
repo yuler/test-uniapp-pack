@@ -9,3 +9,5 @@
 ```bash
 npx degit dcloudio/uni-preset-vue#vite-ts test-uniapp
 ```
+
+- Use [@dcloudio/uvm](https://npm.im/@dcloudio/uvm) manage uni's packages version
